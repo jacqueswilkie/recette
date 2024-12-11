@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wdth,wght@62.5,500&display=swap);
+
+:root {
+  /* Typography */
+  --vp-font-family-base: "Playpen Sans", cursive;
+  /* Code Snippet font */
+  --vp-font-family-mono: "Noto Sans Mono", monospace;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #164d32, #3f8562, #91c2a3);
+  --vp-button-brand-bg: #3f8562;
+  --vp-button-brand-hover-bg: #164d32;
+}
+* {
+  font-weight: 500;
+  font-optical-sizing: auto;
+}
+img {
+  display: block;
+}
+.VPHero.has-image .text {
+  line-height: 48px !important;
+  font-size: 40px !important;
+}
+.vp-doc h1 {
+  position: relative;
+  font-weight: 600;
+  margin: 0;
+  color: #e5dddd;
+  text-align: center;
+  border-radius: 8px;
+  background: linear-gradient(-160deg, #e59d84, #be7158);
+}
+.vp-doc h3 {
+  margin-top: 1em;
+}
+h3 + pre {
+  line-height: 1.1em;
+}
+.fb {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  column-gap: 1em;
+}
+.col1 {
+  flex: 1 1 200px;
+}
+.col2 {
+  flex: 1 1 360px;
+}
+.col3 {
+  flex: 1 1 300px;
+}
