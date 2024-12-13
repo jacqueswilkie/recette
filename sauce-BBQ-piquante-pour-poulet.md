@@ -4,16 +4,17 @@
 
 ### INGRÉDIENTS
 <pre>
-• 3 c. à table          de beurre  
-• 3 c. à table          de farine  
-• 1 1/2 tasse           d'eau chaude  
-• 1 boîte (7 1/2 oz)    sauce tomate  
-  
-• 1 c. à table          de vinaigre  
-• 1/4 tasse             de cassonade  
-• 1/2 c. à thé          de thym  
-• 1                     gousse d'ail  
-• piment de cayenne ou tabasco  
+• beurre            3 c. à table 
+• farine            3 c. à table 
+• eau chaude        1 1/2  tasse 
+• sauce tomate      1      boîte (7 1/2 oz)
+
+• vinaigre          1      c. à table 
+• cassonade           1/4  tasse 
+• thym                1/2  c. à thé 
+• gousse d'ail      1 
+• piment de cayenne 
+  ou tabasco  
 • sel et poivre  
 </pre>
 </div>
