@@ -42,7 +42,7 @@ Servir immédiatement sur un lit de couscous.
 </div>
 <div class="col3">
 
-![AU FIL DU TEMPS - recette de couscous aux saucisses à l'érable](./img/couscous-aux-saucisses-à-l'érable.webp)
+![AU FIL DU TEMPS - recette de couscous aux saucisses à l'érable](./img/couscous-aux-saucisses-érable.webp)
 </div>
 </div>
 

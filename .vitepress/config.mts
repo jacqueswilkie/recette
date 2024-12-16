@@ -34,7 +34,7 @@ export default defineConfig({
         items: [
           { text: 'riz pilaf', link: '/riz-pilaf.md' },
           { text: 'casserole maison', link: '/casserole-maison.md' },
-          { text: 'couscous aux saucisses à l’érable', link: '/couscous-aux-saucisses-à-l’érable.md' },
+          { text: 'couscous aux saucisses à l’érable', link: '/couscous-aux-saucisses-érable.md' },
         ]
       },
       {
