@@ -1,0 +1,9 @@
+import{_ as a,c as r,a2 as s,o as t}from"./chunks/framework.BQmytedh.js";const l="/assets/sucre-%C3%A0-la-cr%C3%A8me.qdEKsw-F.webp",b=JSON.parse('{"title":"Sucre à la Crème","description":"","frontmatter":{},"headers":[],"relativePath":"sucre-à-la-crème.md","filePath":"sucre-à-la-crème.md"}'),i={name:"sucre-à-la-crème.md"};function o(c,e,n,d,u,p){return t(),r("div",null,e[0]||(e[0]=[s(`<h1 id="sucre-a-la-creme" tabindex="-1">Sucre à la Crème <a class="header-anchor" href="#sucre-a-la-creme" aria-label="Permalink to &quot;Sucre à la Crème&quot;">​</a></h1><div class="fb"><div class="col1"><h3 id="ingredients" tabindex="-1">INGRÉDIENTS <a class="header-anchor" href="#ingredients" aria-label="Permalink to &quot;INGRÉDIENTS&quot;">​</a></h3><pre>• cassonade        3 tasses
+• sucre blanc      3 tasses
+• lait carnation   1 1/2 ou <span style="color:red;">3/4</span> tasse
+• sirop de mais      3/4 ou <span style="color:red;">3/8</span> tasse
+• beurre             1/2 ou <span style="color:red;">1/4</span> tasse
+• sel              1 pincée
+• vanille
+• noix  (si desiré)
+</pre></div><div class="col2"><h3 id="preparation" tabindex="-1">PRÉPARATION <a class="header-anchor" href="#preparation" aria-label="Permalink to &quot;PRÉPARATION&quot;">​</a></h3><ol><li>Brasser jusqu&#39;à ébullition.</li><li>Chauffer jusqu&#39;a 235°F au thermomètre à bonbon.</li><li>Laisser reposer 20 min avant de battre.</li><li>Mettre dans des moules beurrés.</li><li>Couper en carré après avoir reposé 5 min.</li></ol><p>📝 3/8 de tasse = 3 onces = 6 c. à table</p><div class="tip custom-block"><p class="custom-block-title">TIP</p><p>Ajouter 8 c. à table de cacao au debut de la recette pour obtenir un fudge delicieux.</p></div></div><div class="col3"><p><img src="`+l+'" alt="AU FIL DU TEMPS - recette de sucre à la crème" title="page 3"></p></div></div>',2)]))}const h=a(i,[["render",o]]);export{b as __pageData,h as default};
