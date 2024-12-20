@@ -1,0 +1,15 @@
+import{_ as s,c as a,a2 as u,o as r}from"./chunks/framework.BQmytedh.js";const o="/assets/couscous-aux-saucisses-%C3%A9rable.CuHj1oA5.webp",b=JSON.parse(`{"title":"Couscous aux saucisses à l'érable","description":"","frontmatter":{},"headers":[],"relativePath":"couscous-aux-saucisses-érable.md","filePath":"couscous-aux-saucisses-érable.md"}`),i={name:"couscous-aux-saucisses-érable.md"};function c(l,e,n,t,d,p){return r(),a("div",null,e[0]||(e[0]=[u(`<h1 id="couscous-aux-saucisses-a-l-erable" tabindex="-1">Couscous aux saucisses à l&#39;érable <a class="header-anchor" href="#couscous-aux-saucisses-a-l-erable" aria-label="Permalink to &quot;Couscous aux saucisses à l&#39;érable&quot;">​</a></h1><div class="fb"><div class="col1"><h3 id="ingredients" tabindex="-1">INGRÉDIENTS <a class="header-anchor" href="#ingredients" aria-label="Permalink to &quot;INGRÉDIENTS&quot;">​</a></h3><pre>• saucisses européennes au choix       4
+• huile d&#39;olive                       30 ml (2c. à soupe) 
+• gousses d&#39;ail hachées                2
+• oignon, haché                        1
+• céleri émincé, carottes, 
+  poivrons coupés en dés, 
+  bouquets de brocoli blanchis        375 ml (1 1/2 tasse) de chacun
+• sirop d&#39;érable                       30 ml (2c. à soupe)   
+• bouillon de poulet: coucous, moyen  310 ml (1 1/4 tasse) de chacun
+• sirop d&#39;érable et jus d&#39;orange       60 ml (1/4 tasse) de chacun
+• moutarde de Dijon                    3O ml (2c. à soupe)     
+• origan frais, haché                  30 ml (2c. à soupe)   
+                ou origan séché        10 ml (2 c. à thé) 
+• sel et poivre 
+</pre></div><div class="col2"><h3 id="preparation-15-min-—-cuisson-20-min" tabindex="-1">PRÉPARATION (15 min.) — cuisson (20 min.) <a class="header-anchor" href="#preparation-15-min-—-cuisson-20-min" aria-label="Permalink to &quot;PRÉPARATION (15 min.)  — cuisson (20 min.)&quot;">​</a></h3><p>1- Dans une casserole, faire bouillir les saucisses durant une dizaine de minutes.<br> 2- Dans une poêle, chauffer 15 ml d&#39;huile à feu moyen-vif et y faire revenir les légumes.<br> 3- Cuire de 3 à 4 minutes et assaisonner.</p><p>4- Ajouter 30 ml (2 c. à soupe) de sirop d&#39;érable et le bouillon, porter à ébullition.<br> 5- Retirer du feu, incorporer le couscous et remuer puis parsemer d&#39;origan.<br> 6- Couvrir et laisser reposer 5 min ou jusqu&#39;à ce que tout le liquide soit absorbé.</p><p>7- Égoutter les saucisses et les couper en deux sur la longueur.<br> 8- Chauffer le reste de l&#39;huile dans une poêle à feu moyen-vif et faire dorer les saucisses.</p><p>9- Mélanger le reste de sirop d&#39;érable avec la moutarde de Dijon et le jus d&#39;orange, verser sur les saucisses.<br> 10- Cuire 2 à 3 min pour les caraméliser.</p><p>Servir immédiatement sur un lit de couscous.</p></div><div class="col3"><p><img src="`+o+'" alt="AU FIL DU TEMPS - recette de couscous aux saucisses à l&#39;érable"></p></div></div>',2)]))}const h=s(i,[["render",c]]);export{b as __pageData,h as default};
